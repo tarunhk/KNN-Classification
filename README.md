@@ -85,8 +85,6 @@ The program prints model accuracy and displays a confusion matrix graph.
 ---
 
 ## 🎓 Learning Outcome
-Through this project, I learned:
-
 - How KNN classification works  
 - Importance of normalization  
 - How to evaluate ML models  
